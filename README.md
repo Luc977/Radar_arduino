@@ -24,6 +24,9 @@ Ce projet utilise un servomoteur et un capteur ultrason pour scaner l'environeme
 2. Ouvre le dans l'IDE Arduino
 3. Installe la librairie 'Servo.h' et 'LiquidCrystal.h' si ce n'est pas déjà fait
 4. Upload sur la carte Arduino
+ 
+### MONTAGE
+  ![Montagge du radar Arduino](radar.jpg)
 
 ## AUTEUR
 Luc977
