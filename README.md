@@ -28,6 +28,10 @@ Ce projet utilise un servomoteur et un capteur ultrason pour scaner l'environeme
 ### MONTAGE
   ![Montagge du radar Arduino](radar.jpg)
 
+## DEMONSTRATION VIDEO
+[![Démonstration IR 9 LEDs](https:/youtube.be/6yqCKsYYk6A)](LIEN_YOUTUBE)
+[Voir la démo sur youtube](LIEN_YOUTUBE)
+
 ## AUTEUR
 Luc977
 
