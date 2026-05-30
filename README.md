@@ -30,7 +30,7 @@ Ce projet utilise un servomoteur et un capteur ultrason pour scaner l'environeme
 
 ## DEMONSTRATION VIDEO
 [![Démonstration IR 9 LEDs](https://img.youtube.com/vi/6yqCKsYYk6A)](https://youtube.be/6yqCKsYYk6A)
-[Voir la démo sur youtube](LIEN_YOUTUBE)
+[Voir la démo sur youtube](https://youtube.be/6yqCKsYYk6A)
 
 ## AUTEUR
 Luc977
